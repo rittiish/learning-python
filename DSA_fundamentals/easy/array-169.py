@@ -4,7 +4,7 @@
 
 class Solution(object):
     def majorityElement(self, nums):
-        
+               
         count=0
         element=None
         for num in nums:
